@@ -1,6 +1,4 @@
 # Social-Networking-site
-Description: Developed a social networking website featuring interactive front-end components using HTML, CSS, and JavaScript. Integrated with a backend database for user data management.
-# Technologies Used: 
-HTML, CSS, JavaScript, MySQL
-# Key Skills Demonstrated: 
-Full-stack development, database management.
+Description:
+Develop the web application like social media using JAVA Servlet & JSP. In this application, we able to view friend's post and profile, add and update own post, update own profile, and chat with friends.
+
